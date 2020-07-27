@@ -1,0 +1,348 @@
+{
+  "CREATED_BY": "Anh Vu Vo",
+  "FILE_CREATION_DATE": "2019-01-24T17:41:17.402-05:00",
+  "FLIGHT_LINES": [
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 1,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_115601 - originalpoints.las",
+      "NUMBER_OF_POINTS": 17858814,
+      "START_TIMESTAMP": "2015-03-26T11:56:01.000Z",
+      "TIME_TAG": "150326_115601"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 2,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_120025 - originalpoints.las",
+      "NUMBER_OF_POINTS": 22135475,
+      "START_TIMESTAMP": "2015-03-26T12:00:25.000Z",
+      "TIME_TAG": "150326_120025"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 3,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_120403 - originalpoints.las",
+      "NUMBER_OF_POINTS": 32106938,
+      "START_TIMESTAMP": "2015-03-26T12:04:03.000Z",
+      "TIME_TAG": "150326_120403"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 4,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_120854 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38994382,
+      "START_TIMESTAMP": "2015-03-26T12:08:54.000Z",
+      "TIME_TAG": "150326_120854"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 5,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_121253 - originalpoints.las",
+      "NUMBER_OF_POINTS": 40264543,
+      "START_TIMESTAMP": "2015-03-26T12:12:53.000Z",
+      "TIME_TAG": "150326_121253"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 6,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_121724 - originalpoints.las",
+      "NUMBER_OF_POINTS": 45098953,
+      "START_TIMESTAMP": "2015-03-26T12:17:24.000Z",
+      "TIME_TAG": "150326_121724"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 7,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_122222 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38795917,
+      "START_TIMESTAMP": "2015-03-26T12:22:22.000Z",
+      "TIME_TAG": "150326_122222"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 8,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_122941 - originalpoints.las",
+      "NUMBER_OF_POINTS": 21924413,
+      "START_TIMESTAMP": "2015-03-26T12:29:41.000Z",
+      "TIME_TAG": "150326_122941"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 9,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_123430 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38389827,
+      "START_TIMESTAMP": "2015-03-26T12:34:30.000Z",
+      "TIME_TAG": "150326_123430"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 10,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_123922 - originalpoints.las",
+      "NUMBER_OF_POINTS": 42610738,
+      "START_TIMESTAMP": "2015-03-26T12:39:22.000Z",
+      "TIME_TAG": "150326_123922"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 11,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_124415 - originalpoints.las",
+      "NUMBER_OF_POINTS": 42341766,
+      "START_TIMESTAMP": "2015-03-26T12:44:15.000Z",
+      "TIME_TAG": "150326_124415"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 12,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_124922 - originalpoints.las",
+      "NUMBER_OF_POINTS": 44585160,
+      "START_TIMESTAMP": "2015-03-26T12:49:22.000Z",
+      "TIME_TAG": "150326_124922"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 13,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_125429 - originalpoints.las",
+      "NUMBER_OF_POINTS": 40486747,
+      "START_TIMESTAMP": "2015-03-26T12:54:29.000Z",
+      "TIME_TAG": "150326_125429"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 14,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_125917 - originalpoints.las",
+      "NUMBER_OF_POINTS": 42774645,
+      "START_TIMESTAMP": "2015-03-26T12:59:17.000Z",
+      "TIME_TAG": "150326_125917"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 15,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_130401 - originalpoints.las",
+      "NUMBER_OF_POINTS": 46323149,
+      "START_TIMESTAMP": "2015-03-26T13:04:01.000Z",
+      "TIME_TAG": "150326_130401"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 16,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_130840 - originalpoints.las",
+      "NUMBER_OF_POINTS": 41380693,
+      "START_TIMESTAMP": "2015-03-26T13:08:40.000Z",
+      "TIME_TAG": "150326_130840"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 17,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_131220 - originalpoints.las",
+      "NUMBER_OF_POINTS": 23944271,
+      "START_TIMESTAMP": "2015-03-26T13:12:20.000Z",
+      "TIME_TAG": "150326_131220"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 18,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_131440 - originalpoints.las",
+      "NUMBER_OF_POINTS": 41056753,
+      "START_TIMESTAMP": "2015-03-26T13:14:40.000Z",
+      "TIME_TAG": "150326_131440"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 19,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_131905 - originalpoints.las",
+      "NUMBER_OF_POINTS": 46077348,
+      "START_TIMESTAMP": "2015-03-26T13:19:05.000Z",
+      "TIME_TAG": "150326_131905"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 20,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_132400 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38402452,
+      "START_TIMESTAMP": "2015-03-26T13:24:00.000Z",
+      "TIME_TAG": "150326_132400"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 21,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_132905 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38483301,
+      "START_TIMESTAMP": "2015-03-26T13:29:05.000Z",
+      "TIME_TAG": "150326_132905"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 22,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_133445 - originalpoints.las",
+      "NUMBER_OF_POINTS": 29578532,
+      "START_TIMESTAMP": "2015-03-26T13:34:45.000Z",
+      "TIME_TAG": "150326_133445"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 23,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_133955 - originalpoints.las",
+      "NUMBER_OF_POINTS": 32216168,
+      "START_TIMESTAMP": "2015-03-26T13:39:55.000Z",
+      "TIME_TAG": "150326_133955"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 24,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_134430 - originalpoints.las",
+      "NUMBER_OF_POINTS": 29374093,
+      "START_TIMESTAMP": "2015-03-26T13:44:30.000Z",
+      "TIME_TAG": "150326_134430"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 25,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_145143 - originalpoints.las",
+      "NUMBER_OF_POINTS": 37511551,
+      "START_TIMESTAMP": "2015-03-26T14:51:43.000Z",
+      "TIME_TAG": "150326_145143"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 26,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_145523 - originalpoints.las",
+      "NUMBER_OF_POINTS": 28160479,
+      "START_TIMESTAMP": "2015-03-26T14:55:23.000Z",
+      "TIME_TAG": "150326_145523"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 27,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_145809 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38924142,
+      "START_TIMESTAMP": "2015-03-26T14:58:09.000Z",
+      "TIME_TAG": "150326_145809"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 28,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_150215 - originalpoints.las",
+      "NUMBER_OF_POINTS": 30356978,
+      "START_TIMESTAMP": "2015-03-26T15:02:15.000Z",
+      "TIME_TAG": "150326_150215"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 29,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_150519 - originalpoints.las",
+      "NUMBER_OF_POINTS": 40522241,
+      "START_TIMESTAMP": "2015-03-26T15:05:19.000Z",
+      "TIME_TAG": "150326_150519"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 30,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_150906 - originalpoints.las",
+      "NUMBER_OF_POINTS": 26072359,
+      "START_TIMESTAMP": "2015-03-26T15:09:06.000Z",
+      "TIME_TAG": "150326_150906"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 31,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_151147 - originalpoints.las",
+      "NUMBER_OF_POINTS": 38808138,
+      "START_TIMESTAMP": "2015-03-26T15:11:47.000Z",
+      "TIME_TAG": "150326_151147"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 32,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_151542 - originalpoints.las",
+      "NUMBER_OF_POINTS": 19623922,
+      "START_TIMESTAMP": "2015-03-26T15:15:42.000Z",
+      "TIME_TAG": "150326_151542"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 33,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_154909 - originalpoints.las",
+      "NUMBER_OF_POINTS": 35915014,
+      "START_TIMESTAMP": "2015-03-26T15:49:09.000Z",
+      "TIME_TAG": "150326_154909"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 34,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_155238 - originalpoints.las",
+      "NUMBER_OF_POINTS": 34552710,
+      "START_TIMESTAMP": "2015-03-26T15:52:38.000Z",
+      "TIME_TAG": "150326_155238"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 35,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_155529 - originalpoints.las",
+      "NUMBER_OF_POINTS": 35678056,
+      "START_TIMESTAMP": "2015-03-26T15:55:29.000Z",
+      "TIME_TAG": "150326_155529"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 36,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_155833 - originalpoints.las",
+      "NUMBER_OF_POINTS": 32486635,
+      "START_TIMESTAMP": "2015-03-26T15:58:33.000Z",
+      "TIME_TAG": "150326_155833"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 37,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_160149 - originalpoints.las",
+      "NUMBER_OF_POINTS": 34623749,
+      "START_TIMESTAMP": "2015-03-26T16:01:49.000Z",
+      "TIME_TAG": "150326_160149"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 38,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_160443 - originalpoints.las",
+      "NUMBER_OF_POINTS": 18177882,
+      "START_TIMESTAMP": "2015-03-26T16:04:43.000Z",
+      "TIME_TAG": "150326_160443"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 39,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_160709 - originalpoints.las",
+      "NUMBER_OF_POINTS": 34624471,
+      "START_TIMESTAMP": "2015-03-26T16:07:09.000Z",
+      "TIME_TAG": "150326_160709"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 40,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_161001 - originalpoints.las",
+      "NUMBER_OF_POINTS": 29840918,
+      "START_TIMESTAMP": "2015-03-26T16:10:01.000Z",
+      "TIME_TAG": "150326_161001"
+    },
+    {
+      "SOURCE_FILE_CREATION_DATE": "2015-08-25T00:00:00.000Z",
+      "FLIGHT_ID": 41,
+      "SOURCE_FILE_NAME": "dublin_ - Scanner 1 - 150326_161223 - originalpoints.las",
+      "NUMBER_OF_POINTS": 32261509,
+      "START_TIMESTAMP": "2015-03-26T16:12:23.000Z",
+      "TIME_TAG": "150326_161223"
+    }
+  ],
+  "OFFSET": [
+    316000,
+    234000,
+    0,
+    388800
+  ],
+  "SCALE": [
+    0.001,
+    0.001,
+    0.001,
+    0.0000010
+  ],
+  "SRID": 29903,
+  "PROJECT_NAME": "Dublin 2015"
+}

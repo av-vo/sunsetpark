@@ -1,0 +1,58 @@
+syntax = "proto2";
+
+option java_package = "umg.core.lidar.protobuf.pulsewaves";
+option java_outer_classname = "PWProtos";
+
+message PWListP{
+    required double xOffset = 1;
+    required double yOffset = 2;
+    required double zOffset = 3;
+    
+    required double xScale = 4;
+    required double yScale = 5;
+    required double zScale = 6;
+    
+    required double tOffset = 7;
+    required double tScale = 8;
+    
+    repeated PulseP pulse = 9;
+}
+
+message PulseP{
+    optional uint64 timestamp = 1;
+    repeated ChannelP channels = 2;
+    
+    required int32 anchorX = 3;
+    required int32 anchorY = 4;
+    required int32 anchorZ = 5;
+
+    required int32 targetX = 6;
+    required int32 targetY = 7;
+    required int32 targetZ = 8;
+
+    required uint32 firstReturningSample = 9;
+    required uint32 lastReturningSample = 10;
+
+    optional uint32 pulseDescriptorIndex = 11;
+    
+    optional bool edgeOfScanLine = 12;
+    
+    optional bool scanDirection = 13;
+
+    optional uint32 mirroFacet = 14;
+
+    optional uint32 intensity = 15;
+
+    optional uint32 classification = 16;
+}
+
+message ChannelP{
+    required uint32 channel = 1;
+    required float sampleUnit = 2;
+    repeated WaveSegmentP waveSegment = 3;
+}
+
+message WaveSegmentP{
+    required float durationFromAnchor = 1;
+    repeated uint32 echo = 2;
+}
