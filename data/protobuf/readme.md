@@ -1,4 +1,5 @@
 ## Protocol Buffers protos
+-------
 
 * The data encoding is defined in `pulsewaves.proto`.
 

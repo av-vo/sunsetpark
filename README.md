@@ -7,5 +7,7 @@ In-house tools and scripts to work with the [Sunset Park Dataset](https://archiv
 | Notebook | Description |
 |--|--|
 | [00_fwf_prep](notebooks/00_fwf_prep.ipynb) | Fetch & prepare FWF data |
-| [01_fwf_inspect](notebooks/01_fwf_inspect.ipynb) | Import & inspect FWF data |
-
+| [01_pwmsg](notebooks/01_pwmsg.ipynb) | Work with PWMsg data |
+| [02_pypwaves](notebooks/02_pypwaves.ipynb) | Work with PulseWaves using PyPWaves |
+| [03_pulse_types](notebooks/03_pulse_types.ipynb) | Look at different pulse types |
+| [04_gpstime](notebooks/04_gpstime.ipynb) | Work with GPS Week-Second time |
