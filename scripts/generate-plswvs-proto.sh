@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SRC_DIR=../data/protobuf
-DST_DIR=../notebooks
+DST_DIR=../notebooks/als
 
 PROTO_FILE=pulsewaves
 
@@ -10,9 +10,10 @@ rm $DST_DIR/${PROTO_FILE}_pb2.py
 protoc -I=$SRC_DIR --python_out=$DST_DIR $SRC_DIR/$PROTO_FILE.proto
 
 FILE=$DST_DIR/${PROTO_FILE}_pb2.py
-if test -f "$FILE"
+
+if [[ "$?" == "0" && -f "$FILE" ]]
 then
-    echo "Done"
+    echo "done"
 else
-	echo "Failed"
+	echo "failed"
 fi

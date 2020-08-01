@@ -11,3 +11,5 @@ In-house tools and scripts to work with the [Sunset Park Dataset](https://archiv
 | [02_pypwaves](notebooks/02_pypwaves.ipynb) | Work with PulseWaves using PyPWaves |
 | [03_pulse_types](notebooks/03_pulse_types.ipynb) | Look at different pulse types |
 | [04_gpstime](notebooks/04_gpstime.ipynb) | Work with GPS Week-Second time |
+| [05_pcloud_temporal_queries](notebooks/05_pcloud_temporal_queries.ipynb) | Query point cloud by time - brute force |
+| [06_fwf_pc_alignment-d15](notebooks/06_fwf_pc_alignment.ipynb) | Align FWF and point cloud data (Dublin data) |
