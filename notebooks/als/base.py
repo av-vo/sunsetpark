@@ -7,20 +7,19 @@ class GPSTimeUtil:
     
     def gpstime_to_datetime(self, gpstime, prev_sunday = None):
         if prev_sunday is None:
-            prev_sunday = GPSTimeUtil.previous_sunday(self.flight_date)
+            prev_sunday = self.previous_sunday()
         dtime = prev_sunday + timedelta(0, gpstime)
         return dtime
 
     def gpstime_from_datetime(self, dtime, prev_sunday = None):
         if prev_sunday is None:
-            prev_sunday = GPSTimeUtil.previous_sunday(self.flight_date)
+            prev_sunday = self.previous_sunday()
         delta = dtime - prev_sunday
         return delta.total_seconds()
     
-    @staticmethod
-    def previous_sunday(flight_date):
-        idx = (flight_date.weekday() +1 ) % 7
-        prev_sunday = (flight_date - timedelta(idx)).replace(hour=0, minute=0, second=0)
+    def previous_sunday(self):
+        idx = (self.flight_date.weekday() +1 ) % 7
+        prev_sunday = (self.flight_date - timedelta(idx)).replace(hour=0, minute=0, second=0)
         return prev_sunday
     
     @staticmethod
