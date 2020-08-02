@@ -13,3 +13,4 @@ In-house tools and scripts to work with the [Sunset Park Dataset](https://archiv
 | [04_gpstime](notebooks/04_gpstime.ipynb) | Work with GPS Week-Second time |
 | [05_pcloud_temporal_queries](notebooks/05_pcloud_temporal_queries.ipynb) | Query point cloud by time - brute force |
 | [06_fwf_pc_alignment-d15](notebooks/06_fwf_pc_alignment-d15.ipynb) | Align FWF and point cloud data (Dublin data) |
+| [07_flight_trajectory](notebooks/07_flight_trajectory.ipynb) | Analyse flight trajectory |
